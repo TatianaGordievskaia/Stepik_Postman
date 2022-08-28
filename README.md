@@ -193,3 +193,8 @@ pm.request.removeQueryParams("value");
 console.log(pm.response.status);
 ```
 Что будет выведено в консоли,  после получения ответа от сервера?
+- [ ] ничего
+- [ ] 200 OK
+- [X] OK
+- [ ] 200
+
