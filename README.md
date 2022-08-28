@@ -1,6 +1,8 @@
 # Stepik_Postman
 Курс "Тестирование ПО: Postman для тестирования API"
 
+![](https://github.com/TatianaGordievskaia/Stepik_Postman/blob/main/stepik-certificate.png)
+
 
 1. Какие типы запросов можно отправлять с помощью Postman?
 
